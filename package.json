@@ -1,0 +1,22 @@
+{
+  "name": "gusidatatables",
+  "version": "1.0.0",
+  "description": "Light-easy DataTables library JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarlosEGuerraSilva/GUSIDataTables.git"
+  },
+  "author": "Carlos Guerra (CarlosEdGuSi)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CarlosEGuerraSilva/GUSIDataTables/issues"
+  },
+  "homepage": "https://github.com/CarlosEGuerraSilva/GUSIDataTables#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.1"
+  }
+}
